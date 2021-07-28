@@ -1,0 +1,156 @@
+{
+    "basics": {
+        "name": "Aman Vashistha",
+        "label": "Student",
+        "picture": "",
+        "email": "2019kucp1011@iiitkota.ac.in",
+        "phone": "+918010481555",
+        "website": "https://vashistha-10.github.io/exordium",
+        "summary": "I am student at Indian Institute of Information Technology, Kota pursuing B. Tech in Computer Science and Engineering. I have prior skills in C++, Python, Full Stack Development and Data Analytics.",
+        "location": {
+            "address": "A79, Brij Vihar",
+            "postalCode": "201011",
+            "city": "Ghaziabad",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "vashistha-10",
+                "url": "https://www.github.com/vashistha-10"
+            },
+            {
+                "network": "linkedin",
+                "username": "vashistha10",
+                "url": "https://www.linkedin.com/in/vashistha10/"
+            },
+            {
+                "network": "Instagram",
+                "username": "vashistha_10",
+                "url": "https://instagram.com/vashistha_10"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Witty Idiots Technologies",
+            "position": "Web Developer/UI-UX Developer",
+            "website": "",
+            "startDate": "07-08-2020",
+            "endDate": "07-11-2020",
+            "summary": "Worked as a Front-end developer on Wordpress to improve UI-UX of the Website",
+            "highlights": []
+        },
+        {
+            "company": "Variate Consultants Private Limited",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "02-02-2021",
+            "endDate": "02-04-2021",
+            "summary": "Worked as a Web Developer to design an E-commerce website for the company.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Matlab Workshop",
+            "position": "Volunteer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Volunteered the official Matlab workshop organized in IIIT Kota.",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology, Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "2019-08-05",
+            "endDate": "2023-11-07",
+            "gpa": "8.9",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Intermidiate-Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "ReactJS",
+                "NodeJS",
+                "ExpressJS",
+                "Django",
+                "Bootstrap",
+                "MySQL",
+                "Github",
+                "Javascript",
+                "Wordpress"
+            ]
+        },
+        {
+            "name": "Data Analytics",
+            "level": "Intermidiate",
+            "keywords": [
+                "Python",
+                "pandas",
+                "sklearn",
+                "matplotlib"
+            ]
+        },
+        {
+            "name": "Competitive Programming",
+            "level": "Intermidiate",
+            "keywords": [
+                "C++",
+                "C",
+                "Java",
+                "Python"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Cricket",
+                "Badminton",
+                "Football",
+                "Basketball"
+            ]
+        },
+        {
+            "name": "Art",
+            "keywords": [
+                "Digital Posters",
+                "Drawing and Sketching"
+            ]
+        }
+    ],
+    "references": []
+}
