@@ -66,8 +66,8 @@
     "education": [
         {
             "institution": "Indian Institute of Information Technology, Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
+            "area": "Technology (Engineering)",
+            "studyType": "Bachelor of",
             "startDate": "2019-08-05",
             "endDate": "2023-11-07",
             "gpa": "8.9",
@@ -78,17 +78,42 @@
     ],
     "awards": [
         {
-            "title": "",
-            "awarder": "",
+            "title": "378 Rank in Coding Ninjas Hiring Challenge",
+            "awarder": "Coding Ninjas",
+            "date": ""
+        },
+        {
+            "title": "4 Star Coder Codechef",
+            "awarder": "Codechef",
             "date": ""
         }
     ],
-    "publications": [],
+    "publications": [
+        {
+            "title": "Salary Predictor",
+            "details": "Salary Predictor using Python and Data Analytics.",
+            "link": "https://salary-predictor-st.herokuapp.com/"
+        },
+        {
+            "title": "CSV to MySQL Convertor",
+            "details": "Converts the CSV file directly into MySQL table.",
+            "link": "https://github.com/vashistha-10/csvTOmySQL"
+        },
+        {
+            "title": "Stock Prediction Whatsapp Bot",
+            "details": "Predicting Stock price via Whatsapp Chatbot,",
+            "link": ""          
+        }
+    ],
     "skills": [
         {
-            "name": "Full Stack Development",
+            "name": "Algorithms and Development",
             "level": "Intermidiate-Master",
             "keywords": [
+                "C++",
+                "C",
+                "Java",
+                "Python",
                 "HTML",
                 "CSS",
                 "Javascript",
@@ -101,26 +126,6 @@
                 "Github",
                 "Javascript",
                 "Wordpress"
-            ]
-        },
-        {
-            "name": "Data Analytics",
-            "level": "Intermidiate",
-            "keywords": [
-                "Python",
-                "pandas",
-                "sklearn",
-                "matplotlib"
-            ]
-        },
-        {
-            "name": "Competitive Programming",
-            "level": "Intermidiate",
-            "keywords": [
-                "C++",
-                "C",
-                "Java",
-                "Python"
             ]
         }
     ],
